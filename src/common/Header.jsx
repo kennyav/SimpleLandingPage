@@ -1,10 +1,10 @@
-import {Link} from "react-router-dom"
+import { Link } from "react-router-dom"
 
 function Header() {
    return (
       <nav class="navbar navbar-light bg-light">
          <div class="container-fluid">
-            <div>Test1</div>
+            <div>Simple Landing Page</div>
 
             <ul class="nav-item">
                <li class="nav-item">

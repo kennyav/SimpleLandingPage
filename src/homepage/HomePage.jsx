@@ -7,7 +7,8 @@ function LandingFrame() {
       "background-size": "cover",
       position: "absolute",
       height: "100%",
-      width: "100%"
+      fit: "1",
+      width: null,
    }
 
    return <div style={style}> <LandingFrameMessage /> </div>
